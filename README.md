@@ -1,4 +1,3 @@
-# Qualidade do Vinho e do Açucar Residual
 # Análise da Qualidade do Vinho
 
 Este projeto realiza uma análise da qualidade do vinho utilizando modelos de *machine learning*. A seguir, estão detalhados os objetivos, a metodologia e os resultados obtidos.
